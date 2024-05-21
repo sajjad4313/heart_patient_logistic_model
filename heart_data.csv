@@ -1,0 +1,298 @@
+rest_bp,chest_pain,thalassemia,age,fasting_bs,max_hr,exercise_angina,gender,st_slope,cholesterol,st_depression,rest_ecg,num_vessels,diagnosis
+106,extreme,0,67,no,142,no angina,female,0,223,0.3,0,2,no
+120,high,0,50,no,158,no angina,female,1,219,1.6,0,0,no
+126,extreme,2,35,no,156,angina,male,0,282,0,2,0,yes
+150,extreme,2,63,no,154,no angina,female,1,407,4,2,3,yes
+140,extreme,2,46,no,120,angina,male,1,311,1.8,0,2,yes
+110,extreme,1,57,no,126,angina,male,1,201,1.5,0,0,no
+130,rare,0,49,no,171,no angina,male,0,266,0.6,0,0,no
+136,high,0,52,no,169,no angina,female,1,196,0.1,2,0,no
+110,extreme,2,59,no,142,angina,male,1,239,1.2,2,1,yes
+170,no pain,2,64,no,155,no angina,male,1,227,0.6,2,0,no
+110,extreme,0,44,no,177,no angina,male,0,197,0,2,1,yes
+172,high,2,52,yes,162,no angina,male,0,199,0.5,0,0,no
+112,extreme,0,47,no,143,no angina,male,0,204,0.1,0,0,no
+130,high,0,53,yes,152,no angina,male,2,197,1.2,2,0,no
+130,extreme,2,57,no,115,angina,male,1,131,1.2,0,1,yes
+120,extreme,2,67,no,129,angina,male,1,229,2.6,2,2,yes
+128,rare,0,62,yes,140,no angina,male,0,208,0,2,0,no
+160,extreme,1,66,no,138,no angina,male,0,228,2.3,2,0,no
+128,rare,0,52,yes,184,no angina,male,0,205,0,0,0,no
+160,high,0,65,no,151,no angina,female,0,360,0.8,2,0,no
+132,extreme,2,43,yes,136,angina,female,1,341,3,2,0,yes
+120,no pain,2,56,no,162,no angina,male,1,193,1.9,2,0,no
+180,high,2,68,yes,150,angina,male,1,274,1.6,2,0,yes
+148,no pain,0,42,no,178,no angina,male,0,244,0.8,2,2,no
+150,high,0,46,no,147,no angina,male,1,231,3.6,0,0,yes
+192,rare,2,54,no,195,no angina,male,0,283,0,2,1,yes
+130,rare,0,44,no,188,no angina,male,0,219,0,2,0,no
+140,high,0,65,yes,157,no angina,female,0,417,0.8,2,1,no
+152,high,2,67,no,150,no angina,male,1,212,0.8,2,0,yes
+174,extreme,0,59,no,143,angina,female,1,249,0,0,0,yes
+130,high,0,48,no,139,no angina,female,0,275,0.2,0,0,no
+128,rare,0,45,no,170,no angina,male,0,308,0,2,0,no
+120,extreme,2,54,no,113,no angina,male,1,188,1.4,0,1,yes
+105,high,2,58,no,154,angina,male,1,240,0.6,2,0,no
+122,extreme,0,48,no,186,no angina,male,0,222,0,2,0,no
+120,extreme,2,43,no,120,angina,male,1,177,2.5,2,0,yes
+145,extreme,1,64,no,132,no angina,male,1,212,2,2,2,yes
+150,high,2,57,yes,173,no angina,male,0,126,0.2,0,1,no
+130,high,1,56,yes,142,angina,male,1,256,0.6,2,1,yes
+110,extreme,2,43,no,161,no angina,male,0,211,0,0,0,no
+140,high,0,58,yes,165,no angina,male,0,211,0,2,0,no
+130,extreme,2,60,no,132,angina,male,1,206,2.4,2,2,yes
+150,extreme,1,57,no,112,angina,male,1,276,0.6,2,1,yes
+146,high,0,66,no,152,no angina,female,1,278,0,2,1,no
+125,high,0,51,yes,166,no angina,male,1,245,2.4,2,0,no
+140,extreme,2,60,no,170,no angina,male,1,293,1.2,2,2,yes
+128,extreme,2,64,no,105,angina,male,1,263,0.2,0,1,no
+152,high,0,67,no,172,no angina,female,0,277,0,0,1,no
+145,extreme,2,70,no,125,angina,male,2,174,2.6,0,0,yes
+120,high,0,51,no,157,no angina,female,0,295,0.6,2,0,no
+118,high,2,68,no,151,no angina,male,0,277,1,0,1,no
+150,high,2,54,no,165,no angina,male,0,232,1.6,2,0,no
+125,no pain,0,51,no,125,angina,male,0,213,1.4,2,1,no
+130,rare,0,41,no,172,no angina,female,0,204,1.4,2,0,no
+140,rare,0,63,no,179,no angina,female,0,195,0,0,2,no
+130,rare,2,56,no,163,no angina,male,0,221,0,2,0,no
+104,extreme,0,45,no,148,angina,male,1,208,3,2,0,no
+140,high,0,51,no,142,no angina,female,0,308,1.5,2,1,no
+160,extreme,2,62,no,145,no angina,female,2,164,6.2,2,3,yes
+110,high,0,54,no,158,no angina,female,1,214,1.6,0,0,no
+94,high,0,39,no,179,no angina,female,0,199,0,0,0,no
+134,rare,0,49,no,162,no angina,female,1,271,0,0,0,no
+120,extreme,2,61,no,140,angina,male,1,260,3.6,0,1,yes
+140,extreme,2,51,no,173,angina,male,0,299,1.6,0,0,yes
+120,extreme,0,57,no,163,angina,female,0,354,0.6,0,0,no
+132,extreme,2,55,no,132,angina,male,1,353,1.2,0,1,yes
+160,high,2,70,no,112,angina,male,1,269,2.9,0,1,yes
+120,extreme,2,65,no,140,no angina,male,0,177,0.4,0,0,no
+120,extreme,2,35,no,130,angina,male,1,198,1.6,0,0,yes
+140,extreme,2,59,no,162,angina,male,0,177,0,0,1,yes
+160,extreme,0,67,no,108,angina,male,1,286,1.5,2,3,yes
+125,extreme,2,60,no,141,angina,male,1,258,2.8,2,1,yes
+140,high,0,39,no,182,no angina,male,0,321,0,2,0,no
+120,extreme,2,46,no,144,no angina,male,0,249,0.8,2,0,yes
+124,extreme,2,54,no,109,angina,male,1,266,2.2,2,1,yes
+110,extreme,0,47,no,118,angina,male,1,275,1,2,1,yes
+125,extreme,0,56,yes,144,angina,male,1,249,1.2,2,1,yes
+130,extreme,2,60,no,144,angina,male,0,253,1.4,0,1,yes
+120,high,0,68,no,115,no angina,female,1,211,1.5,2,0,no
+140,extreme,0,54,no,160,no angina,male,0,239,1.2,0,0,no
+110,high,0,51,no,123,no angina,male,0,175,0.6,0,0,no
+124,extreme,0,63,no,136,angina,female,1,197,0,0,0,yes
+150,extreme,0,43,no,171,no angina,male,0,247,1.5,0,0,no
+160,extreme,2,55,no,145,angina,male,1,289,0.8,2,1,yes
+128,extreme,0,57,no,159,no angina,female,0,303,0,2,1,no
+118,high,0,44,no,149,no angina,female,1,242,0.3,0,1,no
+120,high,2,49,no,139,no angina,male,1,188,2,0,3,yes
+132,high,2,58,no,173,no angina,male,0,224,3.2,2,2,yes
+138,high,0,39,no,152,no angina,female,1,220,0,0,0,no
+120,high,2,42,yes,194,no angina,male,2,240,0.8,0,0,no
+178,extreme,2,66,yes,165,angina,female,1,228,1,0,2,yes
+135,high,0,63,no,172,no angina,female,0,252,0,2,0,no
+101,rare,2,46,yes,156,no angina,male,0,197,0,0,0,no
+170,no pain,2,59,no,159,no angina,male,1,288,0.2,2,0,yes
+150,extreme,2,60,no,157,no angina,female,1,258,2.6,2,2,yes
+170,extreme,1,58,yes,146,angina,female,1,225,2.8,2,2,yes
+130,rare,0,45,no,175,no angina,female,1,234,0.6,2,0,no
+130,extreme,0,61,no,169,no angina,female,0,330,0,2,0,yes
+150,extreme,2,58,no,111,angina,male,0,270,0.8,2,0,yes
+152,extreme,2,40,no,181,no angina,male,0,223,0,0,0,yes
+140,extreme,2,63,no,144,angina,male,0,187,4,2,2,yes
+160,rare,0,71,no,162,no angina,female,0,302,0.4,0,2,no
+132,rare,0,54,yes,159,angina,female,0,288,0,2,1,no
+130,high,0,53,yes,173,no angina,male,0,246,0,2,3,no
+138,extreme,0,46,no,152,angina,female,1,243,0,2,0,no
+145,extreme,2,60,no,142,angina,male,1,282,2.8,2,2,yes
+128,extreme,2,58,no,130,angina,male,1,259,3,2,2,yes
+130,rare,0,29,no,202,no angina,male,0,204,0,2,0,no
+142,extreme,2,45,no,147,angina,male,1,309,0,2,3,yes
+110,no pain,0,64,no,144,angina,male,1,211,1.8,2,0,no
+110,extreme,2,40,no,114,angina,male,1,167,2,2,0,yes
+128,high,2,57,no,150,no angina,male,1,229,0.4,2,1,yes
+122,high,0,43,no,165,no angina,female,1,213,0.2,0,0,no
+130,extreme,2,48,yes,150,angina,male,0,256,0,2,2,yes
+144,extreme,2,68,yes,141,no angina,male,1,193,3.4,0,2,yes
+100,high,0,51,no,143,angina,male,1,222,1.2,0,0,no
+138,extreme,0,45,no,152,angina,female,1,236,0.2,2,0,no
+140,extreme,2,55,no,111,angina,male,2,217,5.6,0,0,yes
+129,high,0,50,no,163,no angina,male,0,196,0,0,0,no
+138,no pain,0,65,yes,174,no angina,male,1,282,1.4,2,1,yes
+128,extreme,2,58,no,131,angina,male,1,216,2.2,2,3,yes
+135,high,0,54,yes,170,no angina,female,0,304,0,0,0,no
+120,rare,0,41,no,182,no angina,male,0,157,0,0,0,no
+144,extreme,2,50,no,126,angina,male,1,200,0.9,2,0,yes
+118,high,0,49,no,126,no angina,male,0,149,0.8,2,3,yes
+120,rare,0,56,no,178,no angina,male,0,236,0.8,0,0,no
+120,rare,0,74,no,121,angina,female,0,269,0.2,2,1,no
+150,extreme,0,62,no,154,angina,female,1,244,1.4,0,0,yes
+140,rare,0,56,no,153,no angina,female,1,294,1.3,2,0,no
+120,rare,0,44,no,170,no angina,male,0,220,0,0,0,no
+164,extreme,1,59,yes,90,no angina,male,1,176,1,2,2,yes
+130,extreme,2,63,no,147,no angina,male,1,254,1.4,2,1,yes
+140,extreme,2,51,no,122,angina,male,1,298,4.2,0,3,yes
+130,high,0,37,no,187,no angina,male,2,250,3.5,0,0,no
+120,high,0,44,no,169,no angina,male,0,226,0,0,0,no
+140,extreme,2,53,yes,155,angina,male,2,203,3.1,2,0,yes
+140,extreme,2,61,no,138,angina,male,0,207,1.9,2,1,yes
+100,extreme,0,67,no,125,angina,male,1,299,0.9,2,2,yes
+130,high,0,47,no,179,no angina,male,0,253,0,0,0,no
+117,extreme,2,60,yes,160,angina,male,0,230,1.4,0,2,yes
+125,extreme,2,52,no,168,no angina,male,0,212,1,0,2,yes
+126,high,1,59,yes,134,no angina,male,1,218,2.2,0,1,yes
+105,rare,0,46,no,172,no angina,female,0,204,0,0,0,no
+178,no pain,2,59,no,145,no angina,male,2,270,4.2,2,0,no
+148,extreme,2,61,no,161,no angina,male,0,203,0,0,1,yes
+130,rare,0,57,no,174,no angina,female,1,236,0,2,1,yes
+140,extreme,0,62,no,157,no angina,female,1,394,1.2,2,0,no
+102,high,0,60,no,160,no angina,female,0,318,0,0,1,no
+140,high,0,60,no,155,no angina,male,1,185,3,2,0,yes
+125,extreme,0,77,no,162,angina,male,0,304,0,2,3,yes
+156,rare,0,70,no,143,no angina,male,0,245,0,2,0,no
+108,extreme,2,52,yes,147,no angina,male,0,233,0.1,0,3,no
+150,extreme,2,65,no,114,no angina,female,1,225,1,2,3,yes
+124,extreme,0,62,no,163,no angina,female,0,209,0,0,0,no
+134,no pain,0,59,no,162,no angina,male,0,204,0.8,0,2,yes
+130,rare,0,48,no,180,no angina,male,1,245,0.2,2,0,no
+118,no pain,1,52,no,190,no angina,male,1,186,0,2,0,no
+140,high,0,64,no,158,no angina,male,0,335,0,0,0,yes
+130,high,0,41,no,168,no angina,male,1,214,2,2,0,no
+100,extreme,2,58,no,156,no angina,male,0,234,0.1,0,1,yes
+108,extreme,0,63,no,169,angina,female,1,269,1.8,0,2,yes
+154,rare,0,57,no,164,no angina,male,0,232,0,2,1,yes
+158,extreme,0,60,no,161,no angina,female,0,305,0,2,0,yes
+112,extreme,0,52,no,160,no angina,male,0,230,0,0,1,yes
+124,high,0,48,yes,175,no angina,male,0,255,0,0,2,no
+122,extreme,0,54,no,116,angina,male,1,286,3.2,2,2,yes
+150,no pain,0,66,no,114,no angina,female,2,226,2.6,0,0,no
+140,extreme,0,51,no,186,angina,male,0,261,0,2,0,no
+135,extreme,2,59,no,161,no angina,male,1,234,0.5,0,0,no
+108,high,0,44,no,175,no angina,female,1,141,0.6,0,0,no
+142,extreme,2,53,no,111,angina,male,0,226,0,2,0,no
+110,no pain,2,45,no,132,no angina,male,1,264,1.2,0,0,yes
+150,no pain,0,60,no,171,no angina,female,0,240,0.9,0,0,no
+130,extreme,0,64,no,122,no angina,female,1,303,2,0,2,no
+110,extreme,2,54,no,126,angina,male,1,239,2.8,0,1,yes
+134,rare,0,52,no,158,no angina,male,0,201,0.8,0,1,no
+118,no pain,0,34,no,174,no angina,male,0,182,0,2,0,no
+120,rare,0,52,no,172,no angina,male,0,325,0.2,0,0,no
+120,rare,0,56,no,169,no angina,male,2,240,0,0,0,no
+140,no pain,0,69,no,151,no angina,female,0,239,1.8,0,2,no
+120,high,0,42,no,173,no angina,female,1,209,0,0,0,no
+110,rare,2,48,no,168,no angina,male,2,229,1,0,0,yes
+140,high,0,76,no,116,no angina,female,1,197,1.1,1,0,no
+135,extreme,2,65,no,127,no angina,male,1,254,2.8,2,1,yes
+110,extreme,2,57,no,143,angina,male,1,335,3,0,1,yes
+160,no pain,0,59,no,125,no angina,male,0,273,0,2,0,yes
+112,high,0,41,no,179,no angina,male,0,250,0,0,0,no
+112,extreme,0,44,no,153,no angina,male,0,290,0,2,1,yes
+152,extreme,2,57,no,88,angina,male,1,274,1.2,0,1,yes
+150,no pain,0,58,yes,162,no angina,female,0,283,1,2,0,no
+120,rare,0,50,no,162,no angina,female,0,244,1.1,0,0,no
+120,rare,0,58,no,160,no angina,male,1,284,1.8,2,0,yes
+110,rare,0,41,no,153,no angina,male,0,235,0,0,0,no
+130,extreme,0,58,no,131,no angina,female,1,197,0.6,0,0,no
+128,extreme,2,55,no,130,angina,female,1,205,2,1,1,yes
+123,extreme,2,53,no,95,angina,male,1,282,2,0,2,yes
+120,high,2,54,no,147,no angina,male,1,258,0.4,2,0,no
+125,extreme,2,58,no,171,no angina,male,0,300,0,2,2,yes
+120,rare,2,62,no,103,no angina,male,1,281,1.4,2,1,yes
+140,high,2,50,no,163,no angina,male,1,233,0.6,0,1,yes
+135,rare,1,41,no,132,no angina,male,1,203,0,0,0,no
+120,high,0,58,no,172,no angina,female,0,340,0,0,0,no
+112,high,2,58,no,165,no angina,male,1,230,2.5,2,1,yes
+120,rare,0,42,no,162,no angina,male,0,295,0,0,0,no
+146,extreme,2,58,no,105,no angina,male,1,218,2,0,1,yes
+140,high,2,64,no,133,no angina,female,0,313,0.2,0,0,no
+135,rare,0,55,no,161,no angina,female,1,250,1.4,2,0,no
+152,no pain,2,52,yes,178,no angina,male,1,298,1.2,0,0,no
+110,extreme,2,41,no,158,no angina,male,0,172,0,2,0,yes
+138,extreme,0,35,no,182,no angina,female,0,183,1.4,0,0,no
+125,extreme,2,67,yes,163,no angina,male,1,254,0.2,0,2,yes
+140,no pain,2,40,no,178,angina,male,0,199,1.4,0,0,no
+140,extreme,1,57,no,148,no angina,male,1,192,0.4,0,0,no
+120,high,0,37,no,170,no angina,female,0,215,0,0,0,no
+200,extreme,2,56,yes,133,angina,female,2,288,4,2,2,yes
+130,rare,0,55,no,155,no angina,male,0,262,0,0,0,no
+130,extreme,0,49,no,163,no angina,female,0,269,0,0,0,no
+136,extreme,1,42,no,125,angina,male,1,315,1.8,0,0,yes
+160,rare,1,66,no,120,angina,male,1,246,0,0,3,yes
+115,extreme,0,45,no,185,no angina,male,0,260,0,2,0,no
+124,rare,2,57,no,141,no angina,male,0,261,0.3,0,0,yes
+138,high,0,47,no,156,no angina,male,0,257,0,2,0,no
+120,extreme,0,64,no,96,angina,male,2,246,2.2,2,1,yes
+160,high,0,54,no,163,no angina,female,0,201,0,0,1,no
+132,extreme,2,57,no,168,angina,male,0,207,0,0,0,no
+124,extreme,2,48,no,166,no angina,male,1,274,0.5,2,0,yes
+138,extreme,0,53,no,160,no angina,female,0,234,0,2,0,no
+120,high,0,60,yes,96,no angina,female,0,178,0,0,0,no
+136,rare,0,58,yes,152,no angina,female,0,319,0,2,2,yes
+134,no pain,0,61,no,145,no angina,male,1,234,2.6,0,2,yes
+150,high,0,61,yes,137,angina,male,1,243,1,0,0,no
+155,high,0,65,no,148,no angina,female,0,269,0.8,0,0,no
+134,extreme,2,56,no,150,angina,female,1,409,1.9,2,2,yes
+126,rare,0,41,no,163,no angina,female,0,306,0,0,0,no
+122,rare,0,35,no,174,no angina,male,0,192,0,0,0,no
+140,extreme,0,62,no,160,no angina,female,2,268,3.6,2,2,yes
+130,extreme,0,53,no,143,no angina,female,1,264,0.4,2,0,no
+130,high,0,44,no,179,angina,male,0,233,0.4,0,0,no
+140,extreme,2,57,no,123,angina,female,1,241,0.2,0,0,yes
+120,no pain,2,38,no,182,angina,male,1,231,3.8,0,0,yes
+130,extreme,2,51,no,142,angina,female,1,305,1.2,0,0,yes
+115,high,2,67,no,160,no angina,female,1,564,1.6,2,0,no
+108,rare,2,54,no,156,no angina,male,0,309,0,0,0,no
+118,extreme,2,39,no,140,no angina,male,1,219,1.2,0,0,yes
+130,extreme,0,70,no,109,no angina,male,1,322,2.4,2,3,yes
+94,high,2,51,no,154,angina,male,0,227,0,0,1,no
+120,extreme,0,66,no,151,no angina,male,1,302,0.4,2,0,no
+140,high,2,69,no,146,no angina,male,1,254,2,2,3,yes
+180,extreme,0,64,no,154,angina,female,0,325,0,0,0,no
+150,high,0,57,no,174,no angina,male,0,168,1.6,0,0,no
+114,extreme,1,58,no,140,no angina,male,2,318,4.4,1,3,yes
+140,high,0,44,no,180,no angina,male,0,235,0,2,0,no
+118,rare,0,34,no,192,no angina,female,0,210,0.7,0,0,no
+115,extreme,0,43,no,181,no angina,male,1,303,1.2,0,0,no
+110,extreme,0,50,no,159,no angina,female,0,254,0,2,0,no
+180,extreme,0,55,no,117,angina,female,1,327,3.4,1,0,yes
+132,extreme,1,56,no,105,angina,male,1,184,2.1,2,1,yes
+120,extreme,1,44,no,144,angina,male,2,169,2.8,0,0,yes
+110,high,0,71,yes,130,no angina,female,0,265,0,2,1,no
+108,high,0,54,no,167,no angina,female,0,267,0,2,0,no
+150,high,0,59,yes,157,no angina,male,0,212,1.6,0,0,no
+130,high,0,51,no,149,no angina,female,0,256,0.5,2,0,no
+112,extreme,0,71,no,125,no angina,female,1,149,1.6,0,0,no
+120,extreme,0,67,no,71,no angina,male,1,237,1,0,0,yes
+125,high,0,54,no,152,no angina,male,2,273,0.5,2,1,no
+112,rare,0,45,no,138,no angina,female,1,160,0,0,0,no
+160,no pain,0,69,yes,131,no angina,male,1,234,0.1,2,1,no
+132,rare,0,55,no,166,no angina,female,0,342,1.2,0,0,no
+130,extreme,2,63,yes,132,angina,male,0,330,1.8,2,3,yes
+120,rare,2,44,no,173,no angina,male,0,263,0,0,0,no
+140,extreme,0,42,no,178,no angina,male,0,226,0,0,0,no
+102,extreme,0,42,no,122,no angina,female,1,265,0.6,2,0,no
+130,high,2,62,no,146,no angina,male,1,231,1.8,0,3,no
+125,high,2,64,no,131,angina,male,1,309,1.8,0,0,yes
+110,extreme,1,65,no,158,no angina,male,0,248,0.6,2,2,yes
+145,no pain,1,63,yes,150,no angina,male,2,233,2.3,2,0,no
+108,high,0,47,no,152,no angina,male,0,243,0,0,0,yes
+138,extreme,0,61,no,125,angina,male,1,166,3.6,2,1,yes
+120,extreme,2,62,no,99,angina,male,1,267,1.8,0,2,yes
+130,high,0,42,no,150,no angina,male,0,180,0,0,0,no
+130,high,0,43,no,162,no angina,male,0,315,1.9,0,1,no
+112,extreme,0,66,no,132,angina,male,0,212,0.1,2,1,yes
+140,rare,0,59,no,164,angina,male,0,221,0,0,0,no
+112,high,0,41,no,172,angina,female,0,268,0,2,0,no
+128,extreme,2,52,no,161,angina,male,0,255,0,0,1,yes
+138,extreme,0,62,yes,106,no angina,female,1,294,1.9,0,3,yes
+145,extreme,2,61,no,146,angina,female,1,307,1,2,0,yes
+142,high,0,46,no,160,angina,female,2,177,1.4,2,0,no
+170,extreme,2,59,no,140,angina,male,2,326,3.4,2,0,yes
+105,rare,0,41,no,168,no angina,female,0,198,0,0,1,no
+110,extreme,0,54,no,108,angina,male,1,206,0,2,1,yes
+165,extreme,2,57,yes,124,no angina,male,1,289,1,2,3,yes
+130,high,2,62,no,97,no angina,female,1,263,1.2,0,1,yes
+100,extreme,0,58,no,122,no angina,female,1,248,1,2,0,no
+138,extreme,0,59,no,182,no angina,male,0,271,0,2,0,no
+130,extreme,2,56,yes,103,angina,male,2,283,1.6,2,0,yes
+150,extreme,2,50,no,128,no angina,male,1,243,2.6,2,0,yes
